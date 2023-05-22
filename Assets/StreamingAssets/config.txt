@@ -1,0 +1,3 @@
+Адрес сервера: 185.246.65.199
+Порт: 9090
+Видео адрес: file://D:/UnityProjects/TestCaseWebOdometr/Assets/StreamingAssets/Capibara.MP4
